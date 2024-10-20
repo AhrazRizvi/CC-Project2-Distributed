@@ -10,6 +10,7 @@ pip install --upgrade setuptools
 pip install aioboto3
 pip install "fastapi[all]"
 pip install pandas python-multipart
+pip install requests
 
 echo "[Unit]
 Description=My Web server

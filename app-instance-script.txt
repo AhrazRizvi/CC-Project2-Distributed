@@ -9,6 +9,7 @@ pip install --upgrade pip
 pip install --upgrade setuptools
 pip install aioboto3
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pip install requests
 
 echo "[Unit]
 Description=My App server
